@@ -1,0 +1,21 @@
+{
+  "name": "backend-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikinggs/backend-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikinggs/backend-lab/issues"
+  },
+  "homepage": "https://github.com/Nikinggs/backend-lab#readme"
+}
