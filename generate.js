@@ -1,6 +1,6 @@
 import {writeFileSync} from 'fs';
 
-const ROWS = 10_000;
+const ROWS = 1_000_000;
 const countries = ['NG', 'GH', 'KE', 'ZA', 'MA'];
 const rows = ['country, product, quantity, price'];
 
